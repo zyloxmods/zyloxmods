@@ -1,21 +1,16 @@
- 
-<h1 align="center">Hi there 👋 Im Zylox</h1>
-<p> <img src="https://komarev.com/ghpvc/?username=0xZylox/> </p>
-<a href="https://discord.com/users/407205917126557696"><img src="https://lanyard.cnrad.dev/api/407205917126557696" alt="Discord" /></a>
-<p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=0xZylox&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
-<p> <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZylox&layout=compact&langs_count=10&show_icons=true&theme=dracula" /> </p>
+<h1 align="center">Hi 👋, I'm Zylox</h1>
 
-<!--
-**0xZylox/0xZylox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **C# and C++**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **Zylox#2573 on Discord**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zyloxmods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyloxmods" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zyloxmods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zyloxmods" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xzylox&show_icons=true&locale=en" alt="0xzylox" /></p>
