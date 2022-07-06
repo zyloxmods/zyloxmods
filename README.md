@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **C# and C++**
 
-- 📫 How to reach me **Zylox#2573 on Discord**
+- 📫 How to reach me, **Zylox#2573 on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
