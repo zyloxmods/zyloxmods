@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zylox</h1>
 
-- 🌱 I’m currently learning **C# and C++**
+- 🌱 I’m currently learning **C# and Unreal C++**
 
-- 📫 How to reach me, **Zylox#1111 on Discord**
+![https://discord.com/users/407205917126557696](https://discord.c99.nl/widget/theme-2/407205917126557696.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
