@@ -18,7 +18,7 @@
 </p>
 
 
-![](https://img.shields.io/twitter/follow/zyloxmods?label=Followers&logo=twitter&style=for-the-badge)
+![](https://img.shields.io/youtube/channel/subscribers/UCTkgjM5vJc0n8wwT0_JG-iA?label=Subscribers&logo=youtube&style=for-the-badge)
 ![](https://img.shields.io/youtube/channel/views/UCTkgjM5vJc0n8wwT0_JG-iA?label=Views&logo=youtube&style=for-the-badge)
 ![](https://img.shields.io/github/followers/0xzylox?style=for-the-badge&logo=github)
 
