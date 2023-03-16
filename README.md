@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unreal C++**
 
-![https://discord.com/users/407205917126557696](https://discord.c99.nl/widget/theme-2/407205917126557696.png)
+![https://discord.com/users/1064245225054289992](https://discord.c99.nl/widget/theme-2/1064245225054289992.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
