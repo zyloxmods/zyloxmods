@@ -1,7 +1,6 @@
 <h1 align="left">Hello 👋, I'm Zylox</h1>
 
 - 🌱 I’m currently learning **Unreal Engine and C++**
-- Working on [Cosmos](https://twitter.com/Cosmos_OGFN) a OG Fortnite Private Server
   
 ***Languages and Tools***
 <p align="left"> <a href="https://zyloxmods.me" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://zyloxmods.me" target="_blank" rel="noreferrer"> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
